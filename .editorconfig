@@ -1,0 +1,15 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+[*] ##Valor universal, pero se puede cambiar estos parametros para html por ejemplo
+indent_style = space
+indent_size = 4
+end_of_line = lf #Importante -> Dejamos el lf (mas universal)
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+
+
+#Define el indentado (utilizar 4 o 2), tabularoes
