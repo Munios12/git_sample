@@ -1,4 +1,4 @@
 //Ejercicio de prueba
-const nsg = "Hola Mundo";
+const nsg = "Hola Mundo desde experimental";
 
 console.log(nsg);
